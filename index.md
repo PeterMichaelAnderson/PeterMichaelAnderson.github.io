@@ -28,7 +28,7 @@ You can contact me at [pa7kd@virginia.edu](mailto:pa7kd@virginia.edu).
       The in-kind provision of public benefits restricts recipient choice but potentially enhances targeting. We extend the approach of Lieber and Lockwood (2019) to analyze this tradeoff when transferred benefits differ in quality from available alternatives, introducing indirect costs. We use this framework to study the in-kind transfer of infant formula by the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), which serves approximately half of U.S. infants. Using the 2009 WIC Food Package Revision as an instrumental variable, we find that each additional week of exclusive breastfeeding significantly reduces childhood obesity risk and improves growth trajectories through age five. Although the in-kind provision of formula effectively targets a subset of eligible participants with potentially higher marginal utility, the quality differential between formula and breastfeeding generates substantial indirect healthcare costs. Under standard modeling assumptions, these indirect costs significantly reduce the optimal formula subsidy rate.
     </p>
     <img src="images/costs_benefits_subsidy.png" alt="Costs and Benefits of a Subsidy with Quality Effects" width="500" style="margin-top: 1em;" />
-  </div>
+</div>
 
 ## Works in Progress
 
