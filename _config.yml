@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Peter Anderson"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Peter Anderson"
+description              : &description "PhD Candidate in Economics at the University of Virginia"
+url                      : https://PeterMichaelAnderson.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PeterMichaelAnderson/PeterMichaelAnderson.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Anderson_Peter_858_1440.jpg"
+  name             : "Peter Anderson"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Peter Anderson is a PhD Candidate in Economics at the University of Virginia. His research focuses on public and health economics, with an emphasis on the design and impact of U.S. nutrition assistance programs. His dissertation examines how the WIC program’s infant formula subsidies influence infant feeding choices, childhood obesity, and overall welfare."
+  location         : "Durham, NC"
+  employer         : "University of Virginia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pa7kd@virginia.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "PeterMichaelAnderson"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
