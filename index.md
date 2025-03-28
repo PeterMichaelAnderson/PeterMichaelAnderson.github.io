@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: "Peter Anderson"
 permalink: /
 author_profile: true
 ---
