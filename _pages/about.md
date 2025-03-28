@@ -3,6 +3,7 @@ layout: single
 title: "About"
 permalink: /about/
 author_profile: true
+published: false
 ---
 
 I am a Ph.D. Candidate in Economics at the University of Virginia. My research focuses on public and health economics, with an emphasis on the design and impact of U.S. nutrition assistance programs. 
