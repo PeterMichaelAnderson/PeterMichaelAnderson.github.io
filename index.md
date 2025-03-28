@@ -34,4 +34,3 @@ You can contact me at [pa7kd@virginia.edu](mailto:pa7kd@virginia.edu).
 <div style="margin-bottom: 3em;">
   <h3 style="margin-top: 0;"><strong>Intensive Margin Welfare Implications: Evidence from WIC EBT</strong></h3>
 </div>
-
