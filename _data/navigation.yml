@@ -10,5 +10,6 @@
 main: 
     
   - title: "CV"
-    url: /cv/
+  url: /files/PeterAnderson_CV.pdf
+
   
