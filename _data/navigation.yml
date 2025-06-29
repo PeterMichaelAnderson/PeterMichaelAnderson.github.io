@@ -11,5 +11,9 @@ main:
     
   - title: "CV"
     url: /files/Anderson_CV.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
 
   
