@@ -20,4 +20,4 @@ title: "Research"
 
 ## Research Statement
 
-[Download Research Statement (PDF)](../files/Anderson_ResearchStatement(June2025).pdf)
+[Download Research Statement (PDF)](../files/Research_Statement.pdf)
