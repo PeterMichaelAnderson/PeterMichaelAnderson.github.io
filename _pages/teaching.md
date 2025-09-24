@@ -12,4 +12,4 @@ title: "Teaching"
 
 ## Teaching Statement
 
-[Download Teaching Statement (PDF)](../files/Anderson_TeachingStatement(June2025).pdf)
+[Download Teaching Statement (PDF)](../files/Teaching_Statement.pdf)
