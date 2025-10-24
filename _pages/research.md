@@ -5,7 +5,7 @@ title: "Research"
 
 ## Working Papers
 
-**[The Causal Effect of WIC on Breastfeeding: A Partial Identification Approach with Regression Discontinuity](../files/Anderson_JMP.pdf)**  
+**[The Causal Effect of WIC on Breastfeeding: Partial Identification under Misclassification of Treatment Assignment](../files/Anderson_JMP.pdf)**  
   - Breastfeeding promotion and support is a core service of the Special Supplemental Nutrition Program for Women, Infants, and Children (WIC), which serves approximately half of all U.S. infants; however, program benefits include vouchers for infant formula, encouraging substitution away from breastfeeding among participating mothers. To estimate WIC’s effect on breastfeeding, I formalize a partial identification approach to address a common challenge in regression discontinuity designs: misclassification of treatment assignment due to measurement error in the running variable. Leveraging the program’s income eligibility cutoff, I apply this approach to bound the local average treatment effect (LATE) on the initiation and duration of breastfeeding. Using data from the Pregnancy Risk Assessment Monitoring System (PRAMS), I find that participation in WIC reduces the probability of initiating breastfeeding by at least 3% and the duration of breastfeeding by at least 1 week. My findings are stable across alternative specifications and robust to more conservative identifying assumptions.  
 
 **[In-kind Transfers and Intensive Margin Participation Frictions: Evidence from WIC EBT](../files/WIC_EBT__AER_Submission.pdf)**  
